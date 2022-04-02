@@ -3,7 +3,7 @@
 
 Tired of clicking to start levels?? Selecting the next difficulty or area?? Don't want keep clicking on ERA and select all those upgrades? Are you going on vacation? Then this script is for you! 
 
-This script literally does everything you need to keep grind those levels to reach higher in ERAS or Infinities for every area and every difficult without need to manual click on anything. (It will not upgrade you towers tho. Will have to either setup before hand or stop the script.
+This script literally does everything you need to keep grind those levels to reach higher for every area and every difficult without need to manual click on anything. (It will not upgrade you towers tho. Will have to either setup before hand or stop the script.
 
 Once you've imported this script. You'll will need to get the x and y axis of each button (Such as "Tower Testing", All Difficulty, Launch button, Era upgrade tab, both ERA HP/DMG, All elements buttons, and finally 1 of the next Area buttons.) or have your screen 1920x1009 (I know that's  weird…) and Dynamic Scaling enabled. If you're getting the coords keep in mind you want all button visible before you start recording the coords.
 
