@@ -3,10 +3,11 @@
 
 Tired of clicking to start levels?? Selecting the next difficulty or area?? Don't want keep clicking on ERA and select all those upgrades? Are you going on vacation? Then this script is for you! 
 
+Goes through each difficult and each area until death. There is no limit set currently could be if you made changes.
+
 This script literally does everything you need to keep grind those levels to reach higher for every area and every difficult without need to manual click on anything. (It will not upgrade you towers tho. Will have to either setup before hand or stop the script.
 
 Once you've imported this script. You'll will need to get the x and y axis of each button (Such as "Tower Testing", All Difficulty, Launch button, Era upgrade tab, both ERA HP/DMG, All elements buttons, and finally 1 of the next Area buttons.) or have your screen 1920x1009 (I know that's  weird…) and Dynamic Scaling enabled. If you're getting the coords keep in mind you want all button visible before you start recording the coords.
-
 
 
 Press KEY <B><I>Z</I></B>  to start teh script. Once started it will not stop until you shutoff the overlay.
